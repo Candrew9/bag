@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewcaldwell/Classes/ECE 2574/xcode directories/hw_1_xcode/hw_1_xcode/starter/ArrayBag.cpp
+ArrayBag.h
+/Users/andrewcaldwell/Classes/ECE 2574/xcode directories/hw_1_xcode/hw_1_xcode/starter/ArrayBag.h
+cstddef
+-
+
+/Users/andrewcaldwell/Classes/ECE 2574/xcode directories/hw_1_xcode/hw_1_xcode/starter/ArrayBag.h
+BagInterface.h
+/Users/andrewcaldwell/Classes/ECE 2574/xcode directories/hw_1_xcode/hw_1_xcode/starter/BagInterface.h
+ArrayBag.cpp
+/Users/andrewcaldwell/Classes/ECE 2574/xcode directories/hw_1_xcode/hw_1_xcode/starter/ArrayBag.cpp
+
+/Users/andrewcaldwell/Classes/ECE 2574/xcode directories/hw_1_xcode/hw_1_xcode/starter/BagInterface.h
+vector
+-
+
+/Users/andrewcaldwell/Classes/ECE 2574/xcode directories/hw_1_xcode/hw_1_xcode/starter/hw1_main.cpp
+iostream
+-
+string
+-
+ArrayBag.h
+/Users/andrewcaldwell/Classes/ECE 2574/xcode directories/hw_1_xcode/hw_1_xcode/starter/ArrayBag.h
+
